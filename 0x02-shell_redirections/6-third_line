@@ -1,0 +1,2 @@
+#!/bim/bash
+tail -3 iacta | tail -1 
